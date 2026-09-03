@@ -1,0 +1,12 @@
+{
+  "name": "listing-board",
+  "version": "0.1.0",
+  "description": "Embeddable listing/directory board: typed CRUD store with JSON persistence, filter/sort/paginate query engine, zero-dependency HTTP router. Node 18+.",
+  "type": "module",
+  "scripts": {
+    "demo": "node --experimental-strip-types example/demo.ts",
+    "test": "node --experimental-strip-types test/board.test.ts"
+  },
+  "keywords": ["crud", "directory", "listings", "rest", "typescript"],
+  "license": "MIT"
+}
